@@ -9,3 +9,8 @@
 ### Total Number of Vine Reviews
 
    * Vine Reviews
+ 
+ ![Image 6-13-21 at 3 20 PM](https://user-images.githubusercontent.com/78887673/121819546-a65af080-cc5b-11eb-9a7a-d7d59f4eb350.jpg)
+
+
+   * Non Vine Reviews
