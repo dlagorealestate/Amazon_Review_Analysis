@@ -54,3 +54,6 @@
 
 
 ### Summary
+
+  In our analysis  we can see 51% of the reviews in the Vine program were 5 stars reviews. The percentage of non-Vine reviews was 39%. This means there is definitely a positive bias for reviews in the Vine program. It would also be beneficial to also to use mean, median and mode to see the star rating for the Vine and non Vine reviews.
+  
