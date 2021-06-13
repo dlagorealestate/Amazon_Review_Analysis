@@ -28,11 +28,12 @@
   
 
    * Non Vine Reviews
-
-
-
-
+ 
+ 
   
+![Image 6-13-21 at 3 22 PM 2](https://user-images.githubusercontent.com/78887673/121819772-f8e8dc80-cc5c-11eb-9ebc-47fb89f7d6b2.jpg)
+
+
 
 
 ### Percentage of 5 Star Reviews
@@ -40,10 +41,16 @@
 
    * Vine Reviews
 
+ 
+![Image 6-13-21 at 3 23 PM](https://user-images.githubusercontent.com/78887673/121819776-fbe3cd00-cc5c-11eb-98e4-62433d98e5c4.jpg)
 
 
 
    * Non Vine reviews
+
+
+  
+![Image 6-13-21 at 3 23 PM (1)](https://user-images.githubusercontent.com/78887673/121819779-03a37180-cc5d-11eb-9748-3566bed90353.jpg)
 
 
 ### Summary
