@@ -14,3 +14,28 @@
 
 
    * Non Vine Reviews
+  
+ ![Image 6-13-21 at 3 21 PM](https://user-images.githubusercontent.com/78887673/121819562-c7bbdc80-cc5b-11eb-89bd-7c4e3e45f25a.jpg)
+
+
+### Total number of 5 Star reviews
+
+   * Vine reviews
+  
+  
+
+   * Non Vine Reviews
+
+
+### Percentage of 5 Star Reviews
+
+
+   * Vine Reviews
+
+
+
+
+   * Non Vine reviews
+
+
+### Summary
