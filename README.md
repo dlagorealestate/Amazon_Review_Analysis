@@ -22,13 +22,13 @@
 
    * Vine reviews
 
- ![Image 6-13-21 at 3 22 PM](https://user-images.githubusercontent.com/78887673/121819636-35680880-cc5c-11eb-9336-b3ceeedcb75f.jpg)
+
   
   
 
    * Non Vine Reviews
 
- ![Image 6-13-21 at 3 22 PM](https://user-images.githubusercontent.com/78887673/121819661-529cd700-cc5c-11eb-8269-168128b3a317.jpg)
+
 
 
   
